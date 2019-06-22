@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("hello github!");
 		System.out.println("hello lgp!");
 		System.out.println("hello lan!");
+		System.out.println("hello yyt!");
 	}
 
 }
